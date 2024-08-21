@@ -1,5 +1,4 @@
-## Hi there 
-### Hello World! 👋
+## Hi there Hello World! 👋
 
 - 🔭 Trabalho na empresa Pop House Alimentos, em Curitiba - PR/BR, como repositor de mercadorias e almoxarife.
 - 💻 Tenho o insteresse de ingressar na área profissional de Tecnologia como desenvolvedor.
