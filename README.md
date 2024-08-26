@@ -13,8 +13,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
   </div>
   
-
-<a href="https://github.com/limamichel3101/IOT-23-08/blob/main/_Curr%C3%ADculo_Michel.2024.docx.pdf" class="nav-link">''Curriculo''</a>
+<a href="https://github.com/limamichel3101/IOT-23-08/blob/main/_Curr%C3%ADculo_Michel.2024.docx.pdf" class="nav-link">''CURRICULO_MICHEL''</a>
 
 
 
