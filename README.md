@@ -14,7 +14,7 @@
   </div>
   <br>
 
-  -  ✉️ Acesse meu currículo em: <a href="https://github.com/limamichel3101/IOT-23-08/blob/main/_Curr%C3%ADculo_Michel.2024.docx.pdf" class="nav-link">''CURRICULO_MICHEL''</a>
+-  ✉️ Acesse meu currículo em: <a href="https://github.com/limamichel3101/IOT-23-08/blob/main/_Curr%C3%ADculo_Michel.2024.docx.pdf" class="nav-link">''CURRICULO_MICHEL''</a>
 
 
 
