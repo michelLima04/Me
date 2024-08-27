@@ -17,8 +17,8 @@
 <br>
 -  ✉️ Acesse meu currículo em: <a href="https://github.com/limamichel3101/IOT-23-08/blob/main/_Curr%C3%ADculo_Michel.2024.docx.pdf" class="nav-link">''CURRICULO_MICHEL''</a>
 -  📞 Contatos:
-<div style ="display: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</div>  
+   ➡️ E-mail: limamichel04@gmail.com
+   ➡️ Linkedin: https://www.linkedin.com/in/michel-lima-05632522a/
+
 
 
