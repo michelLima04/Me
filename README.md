@@ -13,7 +13,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
   </div>
 
-[![michelLima04 GitHub stats](https://github-readme-stats.vercel.app/api?username=michelLima04)](https://github.com/michelLima04/github-readme-stats)
 [![michelLima04 GitHub stats](https://github-readme-stats.vercel.app/api?username=michelLima04&show_icons=true&theme=radical)](https://github.com/michelLima04/github-readme-stats)
 <br>
 -  ✉️ Acesse meu currículo em: <a href="https://github.com/limamichel3101/IOT-23-08/blob/main/_Curr%C3%ADculo_Michel.2024.docx.pdf" class="nav-link">''CURRICULO_MICHEL''</a>
