@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estagio na empresa Evo Sistemas Inteligentes em Pinhais - PR, como Tester de Software.
 - 💻 Tenho o insteresse de ingressar na área profissional de Tecnologia como desenvolvedor.
-- 📚 Atualmente estudo Desenvolvimento de Sistemas no SENAI - Campus da Indútria, Curitiba-PR. Curso de nível técnico 2° período.  
+- 📚 Atualmente estudo Desenvolvimento de Sistemas no SENAI - Campus da Indútria, Curitiba-PR. Curso de nível técnico 3° período.  
 - 👓 Conhecimentos básicos em:
   <div style ="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
