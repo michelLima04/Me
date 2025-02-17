@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/limamichel3101/IOT-23-08/blob/main/senai-logo-3.png)
 
-- 🔭 Trabalho na empresa Pop House Alimentos, em Curitiba - Pr/BR, como repositor de mercadorias e almoxarife.
+- 🔭 Atualmente estágio na empresa Evo Sistemas Inteligentes em Pinhais - PR, como Tester de Software.
 - 💻 Tenho o insteresse de ingressar na área profissional de Tecnologia como desenvolvedor.
 - 📚 Atualmente estudo Desenvolvimento de Sistemas no SENAI - Campus da Indútria, Curitiba-PR. Curso de nível técnico 2° período.  
 - 👓 Conhecimentos básicos em:
